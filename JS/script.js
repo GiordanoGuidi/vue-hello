@@ -6,7 +6,8 @@ const app = createApp({
         return{
             name:'Giordano',
             lastName:'Guidi',
-            role:'WebDeveloper'
+            role:'WebDeveloper',
+            logo:'https://brescia.unicusano.it/wp-content/uploads/2020/10/come-diventare-programmatore-freelance.jpg'
         }
     }
 });
